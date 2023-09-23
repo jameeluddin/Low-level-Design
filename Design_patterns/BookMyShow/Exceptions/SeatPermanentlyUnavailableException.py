@@ -1,0 +1,3 @@
+class SeatPermanentlyUnavailableException(Exception):
+    pass
+
